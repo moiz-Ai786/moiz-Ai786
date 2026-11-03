@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="./site-banner.jpg"
-    width="100%"
-    alt="Moiz Qadeer - AI Automation Engineer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:5B21B6,100:00D4FF&text=MOIZ%20QADEER&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
